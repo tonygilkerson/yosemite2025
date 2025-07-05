@@ -1,0 +1,10 @@
+site_name: Notes
+site_author: Tony Gilkerson
+strict: true
+theme:
+  name: material
+
+
+
+
+

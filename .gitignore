@@ -1,0 +1,4 @@
+.temp/
+site/
+.venv/
+.DS_Store
