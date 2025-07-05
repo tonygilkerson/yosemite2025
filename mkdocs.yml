@@ -1,6 +1,8 @@
 site_name: Notes
 site_author: Tony Gilkerson
 strict: true
+docs_dir: public
+site_dir: docs
 theme:
   name: material
 
