@@ -23,7 +23,7 @@ DEVTODO
 
 ```sh
 make docBuild
-open https://tonygilkerson.github.io/yosemite2025
+open https://tonygilkerson.github.io/yosemite2025/
 ```
 
 ## Publish
