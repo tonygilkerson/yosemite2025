@@ -13,21 +13,19 @@ pip3 install mkdocs-material
 ## Doc Develop
 
 ```sh
+make cpContent
 make docServe
 open http://127.0.0.1:8000/
-```
-
-## Doc Build
-
-DEVTODO
-
-```sh
-make docBuild
-open https://tonygilkerson.github.io/yosemite2025/
 ```
 
 ## Publish
 
 ```sh
-make deploy
+make cpContent
+make docBuild
+
+git add . # you should see changes in the /docs directory
+git commit -m "publish"; git push;
+
+open https://tonygilkerson.github.io/yosemite2025/
 ```
