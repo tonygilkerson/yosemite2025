@@ -7,6 +7,7 @@ docBuild:
 	source ".venv/bin/activate"; mkdocs build --clean;
 
 cpContent:
-	cp ~/github/tonygilkerson/notebook/docs/outside/backpacking/yosemite-fall-2025.md docs/
-	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img docs/
-	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/pdf docs/
+	cp ~/github/tonygilkerson/notebook/docs/outside/backpacking/yosemite-fall-2025.md src/
+	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/Yosemite* src/img/
+	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/tuolumne* src/img/
+	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/pdf/yosemite* src/pdf/
