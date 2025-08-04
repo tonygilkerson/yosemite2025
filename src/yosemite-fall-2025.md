@@ -4,40 +4,149 @@ Me and LT are doing it!
 
 ![Rafferty Creek->Vogelsang](img/Yosemite-Rafferty-Creek-Vogelsang.png)
 
-## Workflow
-
-The workflow here is a simple top-down approach. Start with our questions, make and complete our to-do lists, finalize our plan then have fun on our trip!
-
-* **Q&A Page** – Use this as a scratch pad for questions, ideas, and partially formed thoughts. Once a question is answered, move the information to either the Lists Page or the Plan Page and remove it from here.
-* **Lists Page** – Contains various to-do lists to help organize and prepare for the trip. These lists are for planning and preparation only; they are not needed during the trip itself.
-* **Plan Page** – Provides a clear, step-by-step timeline of our trip.
-* **Trip Site** – An offline copy of the Plan Page, along with additional reference materials we might need in case of emergencies (such as a PDF map of the park, ranger station phone numbers, reservation numbers, etc.). Most of this supplementary material is for backup and should only be needed if something unexpected comes up.
-
->This [Notion Page](https://www.notion.so/Yosemite-220de104b4ac817da062caf2a1ad77f1?source=copy_link) contains the Q&A, Lists and Plan pages.
->
 >The [Trip Site](https://tonygilkerson.github.io/yosemite2025/) contains a readonly copy of the Plan and supplementary material to be made available off-line
 
 ---
-
 ## The Plan
 
 **TODO** - When the plan is finalize on the Notion page it will be copied here for off-line access. The info needs copied to the Plan Page to be refined and finalized
 
 ### Dates
 
-| Date         | Camp Area                    |
-| ------------ | ---------------------------- |
-| Sep 22, 2025 | Vogelsang High Sierra Camp   |
-| Sep 23, 2025 | Merced Lake High Sierra Camp |
-| Sep 24, 2025 | Sunrise High Sierra Camp     |
+| #   | Date         | Camp Area                                                      |
+| --- | ------------ | -------------------------------------------------------------- |
+| 0   | Sat - Sep 20 | Fly to LA                                                      |
+| 1   | Sun - Sep 21 | Drive to Yosemite (~6hr ) - Tuolumne Meadows Backpacker's Camp |
+| 2   | Mon - Sep 22 | Hike - Vogelsang High Sierra Camp                              |
+| 3   | Tue - Sep 23 | Hike - Merced Lake High Sierra Camp                            |
+| 4   | Wed - Sep 24 | Hike - Sunrise High Sierra Camp                                |
+| 5   | Thr - Sep 25 | Hike - Tuolumne Meadows Backpacker's Camp                      |
+| 6   | Fri - Sep 26 | Visit the Valley (optional) - Drive to LA                      |
+| 7   | Sat - Sep 27 | Fly to Ohio                                                    |
 
-This is our official itinerary, but if we want to make changes we can!
+#### Day 0 (Sat. Sep 20)
+
+* Fly to LA, arrive around mid day
+* Get rental car (TODO book it)
+* Go to dinner with LT
+* Stay in hotel (TODO book it)
+
+#### Day 1 - (Sun Sep 21)
+
+* Up early and drive to Yosemite (~6hr)
+* Eat on the road, buy take-out dinner
+* Check-in and find parking
+* For dinner, we'll either buy food at a local store/restaurant or use the take-out we picked up earlier
+* Camp at **Tuolumne Meadows Backpacker's Camp**
+
+#### Day 2 - (Mon Sep 22)
+
+* Up early, eat breakfast in camp
+* Hike
+* Lunch - TODO set a waypoint for suggested location to eat
+* Hike - TODO find water source for dinner add waypoint on map
+* Arrive at **Vogelsang High Sierra Camp**
+* Setup camp and have some dinner
+* Optional
+  * explore camp
+  * check out the sky when it gets dark!
+  
+#### Day 3 - (Tue Sep 23)
+
+* Up early, eat breakfast in camp
+* Hike, Lunch, Hike
+* Arrive at **Merced Lake High Sierra Camp**
+* Setup camp and have some dinner
+
+#### Day 4 - (Wed Sep 24)
+
+* Up early, eat breakfast in camp
+* Hike, Lunch, Hike
+* Arrive at **Sunrise High Sierra Camp**
+* Setup camp and have some dinner
+
+#### Day 5 - (Thr Sep 25)
+
+* Up early, eat breakfast in camp
+* Hike, Lunch, Hike
+* Arrive at **Tuolumne Meadows Backpacker's Camp**
+* Setup camp and have some dinner
+
+#### Day 6 - (Fri Sep 26)
+
+* Up when we feel like it, have some coffee and hit the road
+* Eat on the road
+* We can head to the Valley and be a tourist for a few hours, if we have the energy or just head to LA
+* Stay in hotel (TODO book it)
+
+#### Day 7 - (Sat Sep 27)
+
+* Fly to Ohio
+
+
+This is our official hiking itinerary, but if we want to make changes we can!
 
 >We start from `Rafferty Creek->Vogelsang`, this trail follows the Lyell Fork of the Tuolumne River through sub-alpine meadows and then climbs along Rafferty Creek to Tuolumne Pass, Vogelsang, and destinations beyond!
 
 Travel at least four miles from Tuolumne Meadows before finding allowable camping. There is no longer a toilet at the backpacker sites at Vogelsang. If staying at backpacker sites near Fletcher Lake, please disperse several hundred feet from the campground boundary when going to the bathroom. Fires are prohibited in the Vogelsang area, at Boothe Lake, and above 9,600 feet. Along the Tuolumne Watershed, ensure all washing and waste is 300' from water.
 
 Half Dome available with this trailhead. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
+
+---
+
+## Lists
+
+## AEG Pack
+
+* Core Gear
+  * Backpack
+    * Tent - 2P Tent
+    * Ground tarp/footprint
+    * Sleeping bag (summer bag and extra one for on top)
+    * Sleeping pad (Big Agnes Rapide SL)
+    * Bear Canister (BV450 Jaunt)
+    * Headlamp - Petzl Tikka Headlamp with charging cord
+* Electronics
+    * iPhone w/offline maps and info and charging cord
+    * Backup iPhone w/offline maps and info and charging cord
+    * EarPods and charging cord
+    * USB power pack
+    * Sunjack Solar Panels
+* Food
+    * Stove - Zip 0.8 L Fast Boil System
+    * IsoPro Fuel Canister - TODO how many
+* Clothing
+    * Rain Jacket - REI XeroCloud 3L
+    * Vest - 650 Down Vest
+    * Long Sleeves Shirt - Swiftland Thermal Running Crew Pullover
+    * Short Sleeves Shirt (2)
+      * Swiftland Running T-Shirt 
+      * Other
+
+## LT Pack
+
+* Core Gear
+    * Backpack
+    * Sleeping bag (Heimlich)
+    * Sleeping pad (TODO)
+    * Bear Canister (BV425 Jaunt)
+    * Headlamp - w/extra batteries (TODO find my old one)
+* Electronics
+    * iPhone w/offline maps and info
+    * EarPods and charging cord
+    * USB power pack and charging cords
+* Clothing
+    * Rain Jacket 
+
+
+## Meals
+
+| Day | Date       | Breakfast | Lunch | Dinner |
+| --- | ---------- | --------- | ----- | ------ |
+| 2   | Mon Sep 22 | TBD       | TBD   | TBD    |
+| 3   | Tue Sep 23 | TBD       | TBD   | TBD    |
+| 4   | Wed Sep 24 | TBD       | TBD   | TBD    |
+| 5   | Thu Sep 25 | TBD       | TBD   | TBD    |
 
 ---
 
