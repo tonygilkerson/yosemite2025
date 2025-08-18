@@ -7,9 +7,9 @@ Me and LT are doing it!
 >The [Trip Site](https://tonygilkerson.github.io/yosemite2025/) contains a readonly copy of the Plan and supplementary material to be made available off-line
 
 ---
+
 ## The Plan
 
-**TODO** - When the plan is finalize on the Notion page it will be copied here for off-line access. The info needs copied to the Plan Page to be refined and finalized
 
 ### Dates
 
@@ -29,13 +29,18 @@ Me and LT are doing it!
 * Fly to LA, arrive around mid day
 * Get rental car (TODO book it)
 * Go to dinner with LT
-* Stay in hotel (TODO book it)
+* Hotel, Santa Monica ([hotel.com](https://www.hotels.com/trips/72065320938766/details/MjM3NGVmMjItMzE2ZS02MGUzLTkxZTktZDU3ZmY2YTAyN2U1O2UxMzZmYzRlLWIwOTMtNDQ2OC04NWNkLWI3MTk0M2Q1ZTU3OV8wOzA?siteid=300000001&EMLCID=HCOM-US.TRC.ACTV.2d3d033161682fd9668bed9f3714038c.EML&EMLDTL=DATE20250815-LANGEN_US.TEST496.VERS3.CAT02G255.MOD666184&cta=genericNotification.HCom_Itinerary_V1.link&rfrr=AB.5037.1))
+    * **Itinerary**: `72065320938766`
+    * **Check in**: Sat, Sep 20, 3pm
+    * **Check out**: Sun, Sep 21, 11am
+    * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 
 #### Day 1 - (Sun Sep 21)
 
-* Up early and drive to Yosemite (~6hr)
+* Up early and drive to Yosemite (~6hr) 
+* Arrive around 3p so we have time to pick up our permit (station hours 8am to 5pm)
 * Eat on the road, buy take-out dinner
-* Check-in and find parking
+* Pickup permit and find parking
 * For dinner, we'll either buy food at a local store/restaurant or use the take-out we picked up earlier
 * Camp at **Tuolumne Meadows Backpacker's Camp**
 
@@ -48,8 +53,8 @@ Me and LT are doing it!
 * Arrive at **Vogelsang High Sierra Camp**
 * Setup camp and have some dinner
 * Optional
-  * explore camp
-  * check out the sky when it gets dark!
+    * explore camp
+    * check out the sky when it gets dark!
   
 #### Day 3 - (Tue Sep 23)
 
@@ -77,12 +82,17 @@ Me and LT are doing it!
 * Up when we feel like it, have some coffee and hit the road
 * Eat on the road
 * We can head to the Valley and be a tourist for a few hours, if we have the energy or just head to LA
-* Stay in hotel (TODO book it)
+* Hotel, Santa Monica (hotels.com)
+    * **Reservation Confirmation#**: `2269013461`
+    * **Check in**: Friday, Sep 26, 3pm
+    * **Check out**: Saturday, Sep 27, 11am
+    * **Luggage Storage**: Available for guests checking in beginning at 12 PM and for departing guests until 2 PM.
+    * **Parking**: We offer a limited amount of parking spaces in our garage. Due to limited capacity, the spots are first come-first serve at an inclusive rate of $33.00 per night. For more details, contact or visit Guest Services at `+1 (213) 952-7869`.
+    * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 
 #### Day 7 - (Sat Sep 27)
 
 * Fly to Ohio
-
 
 This is our official hiking itinerary, but if we want to make changes we can!
 
@@ -99,7 +109,7 @@ Half Dome available with this trailhead. All members of the permit are eligible 
 ## AEG Pack
 
 * Core Gear
-  * Backpack
+    * Backpack
     * Tent - 2P Tent
     * Ground tarp/footprint
     * Sleeping bag (summer bag and extra one for on top)
@@ -115,13 +125,20 @@ Half Dome available with this trailhead. All members of the permit are eligible 
 * Food
     * Stove - Zip 0.8 L Fast Boil System
     * IsoPro Fuel Canister - TODO how many
+    * pot
+    * utensel
 * Clothing
     * Rain Jacket - REI XeroCloud 3L
     * Vest - 650 Down Vest
     * Long Sleeves Shirt - Swiftland Thermal Running Crew Pullover
     * Short Sleeves Shirt (2)
-      * Swiftland Running T-Shirt 
+      * Swiftland Running T-Shirt
       * Other
+* meds
+    * Tylenol
+    * IB-pro-fin
+    * Statan
+* First Aid
 
 ## LT Pack
 
@@ -131,28 +148,83 @@ Half Dome available with this trailhead. All members of the permit are eligible 
     * Sleeping pad (TODO)
     * Bear Canister (BV425 Jaunt)
     * Headlamp - w/extra batteries (TODO find my old one)
+    * cards and dice
 * Electronics
     * iPhone w/offline maps and info
     * EarPods and charging cord
     * USB power pack and charging cords
 * Clothing
-    * Rain Jacket 
-
+    * Rain Jacket
+* food and water
+    * Camel back
+    * nalgene 
 
 ## Meals
 
-| Day | Date       | Breakfast | Lunch | Dinner |
-| --- | ---------- | --------- | ----- | ------ |
-| 2   | Mon Sep 22 | TBD       | TBD   | TBD    |
-| 3   | Tue Sep 23 | TBD       | TBD   | TBD    |
-| 4   | Wed Sep 24 | TBD       | TBD   | TBD    |
-| 5   | Thu Sep 25 | TBD       | TBD   | TBD    |
+### DAY 2 (Sat. 9/20 - Hike Day 1)
+
+* **Breakfast**: TBD - could grab something in town/make at campsite? - PBJ & Banana toast?
+* **Lunch**: deli sandwiches w/ chips!
+* **Dinner**: Dad TBD
+* **Snacks**: (1) Electrolyte Packet + TBD
+
+### DAY 3 (Sat. 9/20 - Hike Day 2)
+
+* **Breakfast**: Oatmeal w/ TBD + Coffee
+* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
+* **Dinner**: Dad TBD
+* **Snacks**: (1) Electrolyte Packet + TBD
+
+### DAY 4 (Sat. 9/20 - Hike Day 3)
+
+* **Breakfast**: Oatmeal w/ TBD + Coffee
+* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
+* **Dinner**: Dad TBD
+* **Snacks**: (1) Electrolyte Packet + TBD
+
+### DAY 5 (Sat. 9/20 - Hike Day 4)
+
+* **Breakfast**: Oatmeal w/ TBD + Coffee
+* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
+* **Dinner**: Dad TBD
+* **Snacks**: (1) Electrolyte Packet + TBD
+
+### Need to Get
+
+* **First day breakfast + lunch**: 
+    * bread
+    * (2) mini bags of chips
+    * (2) bananas
+    * cheese
+    * veggie meat
+    * PB
+    * Jelly
+* **Oatmeal add-ins**: cranberries + PB? 
+* **Lunch protein/Main**:
+    * tuna creations (lauren only)
+    * chicken creations  (lauren only)
+    * PB & J
+* **Lunch crispies/crackers**:
+    * goldfish
+    * cheeze-its
+    * other crackers??
+* **Condiments**?: mustard + mayo packets
+* **Drinks**: Electrolytes, Hot cocoa, tea
+* **Snacks**: (options below - won’t bring everything...obviously)
+    * Trail mix (work)
+    * Protein bars (work)
+    * Stinger waffles?
+    * Running gummies/salt pills?
+    * Dried fruit?
+    * Chocolate?
+* One dessert? :)
+
+
+
 
 ---
 
 ## Supplementary Material
-
-I need to go through the material below and add to the Notion Pages. I just started this before we had the Notion page.
 
 ### Reservation - Rafferty Creek to Vogelsang
 
@@ -169,8 +241,6 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit S
 
 * **Tuolumne Meadows Wilderness Center** - is located just off the Tioga Road in Tuolumne Meadows. It is about one mile east of the visitor center. From the Tioga Road, follow signs for Tuolumne Meadows Lodge, Dog Lake, and Wilderness Permits. Parking is available at the wilderness center.
 * **Coordinates**: 37.87695, -119.34626
-
-> **TODO** - Need to figure out if it is possible to stay at any of the Backpackers Campgrounds. We could pickup our passes the day before in the Valley, be a tourist for the day, then spend the night in the Backpackers Campground in the Valley.  In the morning we would have a drive but that should be ok given we have our passes? Or be tourists for the day and drive to Tuolume Meadows in the evening and stay there so we ge an early start.
 
 ### Food Storage
 
@@ -196,14 +266,6 @@ Explore Public Transportation Options for going to and getting around Yosemite N
 [Backpackers campgrounds](https://www.nps.gov/yose/planyourvisit/bpcamp.htm) (open seasonally) are available for wilderness permit holders to spend one night before and one night after a wilderness trip. **Reservations are not required nor necessary**.
 
 The fee is $8 per person. Download the **Recreation.gov mobile app** now and use the *Scan & Pay* feature onsite (even if you don't have internet access at the campground). Parking is not available at campgrounds; instead park at designated overnight parking areas and walk to the backpackers campground.
-
-> **TODO** Need to figure out which Backpackers Campgrounds we are staying in, Tuolumne Medows or the Valley.
-
-#### Yosemite Valley
-
-This campground has vault toilets and no potable water (potable water is available nearby in North Pines Campground).
-
-While you may park for 15 minutes at the entrance to the backpackers campground (in North Pines Campground) to unload your gear, park overnight at the trailhead parking or at Curry Village parking. (Overnight parking is not available at The Ahwahnee.)
 
 #### Tuolumne Meadows
 
@@ -244,15 +306,13 @@ Camp
 
 > **TODO** create a step by step itinerary with GPS links to onX then figure out a good way to store that offline on the phone.
 
-#### Test
-
-> **TODO** Clean this section up
+### Misc How-To
 
 **Prepare Content**
 
-* In onX, click the `Share [^]` icon for a waypoint, copy the link and use it in a hyper link in markdown. Below is an example. 
+* In onX, click the `Share [^]` icon for a waypoint, copy the link and use it in a hyper link in markdown. Below is an example.
 
-  [Lembert Dome Trailhead Waypoint](https://webmap.onxmaps.com/backcountry/share/content?share_id=01JXT0PAM2MYDRQ27SP4ZVG0C2)
+    [Lembert Dome Trailhead Waypoint](https://webmap.onxmaps.com/backcountry/share/content?share_id=01JXT0PAM2MYDRQ27SP4ZVG0C2)
 
 **Create Web Archive**
 
