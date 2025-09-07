@@ -13,18 +13,18 @@ Me and LT are doing it!
 
 ### Dates
 
-| #   | Date         | Camp Area                                                      |
-| --- | ------------ | -------------------------------------------------------------- |
-| 0   | Sat - Sep 20 | Fly to LA                                                      |
-| 1   | Sun - Sep 21 | Drive to Yosemite (~6hr ) - Tuolumne Meadows Backpacker's Camp |
-| 2   | Mon - Sep 22 | Hike - Vogelsang High Sierra Camp                              |
-| 3   | Tue - Sep 23 | Hike - Merced Lake High Sierra Camp                            |
-| 4   | Wed - Sep 24 | Hike - Sunrise High Sierra Camp                                |
-| 5   | Thr - Sep 25 | Hike - Tuolumne Meadows Backpacker's Camp                      |
-| 6   | Fri - Sep 26 | Visit the Valley (optional) - Drive to LA                      |
-| 7   | Sat - Sep 27 | Fly to Ohio                                                    |
+| Trip Day | Date         | Camp Area                                                      |
+| -------- | ------------ | -------------------------------------------------------------- |
+| 0        | Sat - Sep 20 | Fly to LA                                                      |
+| 1        | Sun - Sep 21 | Drive to Yosemite (~6hr ) - Tuolumne Meadows Backpacker's Camp |
+| 2        | Mon - Sep 22 | Hike 1 - Vogelsang High Sierra Camp                            |
+| 3        | Tue - Sep 23 | Hike 2 - Merced Lake High Sierra Camp                          |
+| 4        | Wed - Sep 24 | Hike 3 - Sunrise High Sierra Camp                              |
+| 5        | Thr - Sep 25 | Hike 4 - Tuolumne Meadows Backpacker's Camp                    |
+| 6        | Fri - Sep 26 | Drive to LA                                                    |
+| 7        | Sat - Sep 27 | Fly to Ohio                                                    |
 
-#### Day 0 (Sat. Sep 20)
+#### Trip Day 0 (Sat. Sep 20)
 
 * Fly to LA, arrive around mid day
 * Get rental car (TODO book it)
@@ -35,7 +35,7 @@ Me and LT are doing it!
     * **Check out**: Sun, Sep 21, 11am
     * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 
-#### Day 1 - (Sun Sep 21)
+#### Trip Day 1 - (Sun Sep 21)
 
 * Up early and drive to Yosemite (~6hr) 
 * Arrive around 3p so we have time to pick up our permit (station hours 8am to 5pm)
@@ -44,7 +44,7 @@ Me and LT are doing it!
 * For dinner, we'll either buy food at a local store/restaurant or use the take-out we picked up earlier
 * Camp at **Tuolumne Meadows Backpacker's Camp**
 
-#### Day 2 - (Mon Sep 22)
+#### Trip Day 2 - (Mon Sep 22)
 
 * Up early, eat breakfast in camp
 * Hike
@@ -56,28 +56,28 @@ Me and LT are doing it!
     * explore camp
     * check out the sky when it gets dark!
   
-#### Day 3 - (Tue Sep 23)
+#### Trip Day 3 - (Tue Sep 23)
 
 * Up early, eat breakfast in camp
 * Hike, Lunch, Hike
 * Arrive at **Merced Lake High Sierra Camp**
 * Setup camp and have some dinner
 
-#### Day 4 - (Wed Sep 24)
+#### Trip Day 4 - (Wed Sep 24)
 
 * Up early, eat breakfast in camp
 * Hike, Lunch, Hike
 * Arrive at **Sunrise High Sierra Camp**
 * Setup camp and have some dinner
 
-#### Day 5 - (Thr Sep 25)
+#### Trip Day 5 - (Thr Sep 25)
 
 * Up early, eat breakfast in camp
 * Hike, Lunch, Hike
 * Arrive at **Tuolumne Meadows Backpacker's Camp**
 * Setup camp and have some dinner
 
-#### Day 6 - (Fri Sep 26)
+#### Trip Day 6 - (Fri Sep 26)
 
 * Up when we feel like it, have some coffee and hit the road
 * Eat on the road
@@ -90,7 +90,7 @@ Me and LT are doing it!
     * **Parking**: We offer a limited amount of parking spaces in our garage. Due to limited capacity, the spots are first come-first serve at an inclusive rate of $33.00 per night. For more details, contact or visit Guest Services at `+1 (213) 952-7869`.
     * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 
-#### Day 7 - (Sat Sep 27)
+#### Trip Day 7 - (Sat Sep 27)
 
 * Fly to Ohio
 
@@ -161,33 +161,71 @@ Half Dome available with this trailhead. All members of the permit are eligible 
 
 ## Meals
 
-### DAY 2 (Sat. 9/20 - Hike Day 1)
+### Trip Day 1 - Backpacker's Camp
 
+* **Sun 9/21**: Drive to Yosemite, stay in Tuolumne Meadows Backpacker's Camp
+* **Breakfast**: on the road
+* **Lunch**: on the road
+* **Dinner**: on the road or in camp? LT TODO to see if we can get something on the road
+
+### Trip Day 2 - Hike 1
+
+* **Mon 9/22**: Hike to Vogelsang High Sierra Camp
 * **Breakfast**: TBD - could grab something in town/make at campsite? - PBJ & Banana toast?
 * **Lunch**: deli sandwiches w/ chips!
 * **Dinner**: Dad TBD
 * **Snacks**: (1) Electrolyte Packet + TBD
 
-### DAY 3 (Sat. 9/20 - Hike Day 2)
+### Trip Day 3 - Hike 2
 
+* **Tue 9/23**: Hike to  Merced Lake High Sierra Camp
 * **Breakfast**: Oatmeal w/ TBD + Coffee
 * **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
 * **Dinner**: Dad TBD
 * **Snacks**: (1) Electrolyte Packet + TBD
 
-### DAY 4 (Sat. 9/20 - Hike Day 3)
+### Trip Day 4 - Hike 3
 
+* **Wed 9/24**: Hike to Sunrise High Sierra Camp
 * **Breakfast**: Oatmeal w/ TBD + Coffee
 * **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
 * **Dinner**: Dad TBD
 * **Snacks**: (1) Electrolyte Packet + TBD
 
-### DAY 5 (Sat. 9/20 - Hike Day 4)
+### Trip Day 5 - Hike 4
 
+* **Thr 9/25**: Hike back to Tuolumne Meadows Backpacker's Camp
 * **Breakfast**: Oatmeal w/ TBD + Coffee
 * **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
 * **Dinner**: Dad TBD
 * **Snacks**: (1) Electrolyte Packet + TBD
+
+### Trip Day 6 - Hike 4
+
+* **Thr 9/26**: Drive back to LA
+* **Breakfast**: Oatmeal w/ TBD + Coffee
+* **Lunch**: on the road
+* **Dinner**: in the BnB
+
+### Estimating How Much Fuel
+
+For more detail see [this REI Expert Advice article](https://www.rei.com/learn/expert-advice/how-much-stove-fuel-should-i-take-on-my-backpacking-trip.html)
+
+To get a ballpark estimate I am going to count the boils needed. For example, for breakfast I will need two boils, one for coffee and one for oats.  For dinner I will also need two boils one for food hydration and a second for cooking time.
+
+>Assume: 4 boils per person per day (`4b`)
+
+For fuel I plan to use the small 100g cans.  According to the REI article noted above you can get ~12 boils. I am going to round that down to 10 to be safe.
+
+>Assume: 10 boils per can (`10pbd`)
+
+Doing the math for two people (`2p`) and five days (`5d`), the two stays in the backpacker's camp count as a half day. So that is 4 full days and two half days for a total of five days.
+
+```eq
+number of cans = (2p * 5d * 4b) / 10bpd = 4
+```
+
+> We need `4` 100g cans
 
 ### Need to Get
 
@@ -218,9 +256,6 @@ Half Dome available with this trailhead. All members of the permit are eligible 
     * Dried fruit?
     * Chocolate?
 * One dessert? :)
-
-
-
 
 ---
 
