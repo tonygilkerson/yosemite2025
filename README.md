@@ -13,6 +13,7 @@ pip3 install mkdocs-material
 ## Doc Develop
 
 ```sh
+source .venv/bin/activate 
 make cpContent
 make docServe
 open http://127.0.0.1:8000/

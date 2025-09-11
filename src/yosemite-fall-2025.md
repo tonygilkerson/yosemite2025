@@ -6,10 +6,33 @@ Me and LT are doing it!
 
 >The [Trip Site](https://tonygilkerson.github.io/yosemite2025/) contains a readonly copy of the Plan and supplementary material to be made available off-line
 
+## Table of Contents
+
+- [The Plan](#the-plan)
+- [Lists](#lists)
+- [Meals](#meals)
+- [Flight](#flight)
+- [Rental Car](#rental-car)
+- [Hotel](#hotel)
+- [Supplementary Material](#supplementary-material)
+    - [Reservation - Rafferty Creek to Vogelsang](#reservation---rafferty-creek-to-vogelsang)
+    - [Permit Pickup](#permit-pickup)
+    - [Official Hiking Itinerary](#official-hiking-itinerary)
+    - [Food Storage](#food-storage)
+    - [Current Conditions](#current-conditions)
+    - [Public Transportation](#public-transportation)
+    - [Backpackers Campgrounds](#backpackers-campgrounds)
+    - [Tuolumne Meadows](#tuolumne-meadows)
+    - [Contact](#contact)
+    - [Maps](#maps)
+    - [Estimating How Much Fuel](#estimating-how-much-fuel)
+    - [Need to Get](#need-to-get)
+    - [Search and Rescue Insurance](#search-and-rescue-insurance)
+    - [How to Save This Document Off-line](#how-to-save-this-document-off-line)
+
 ---
 
 ## The Plan
-
 
 ### Dates
 
@@ -27,13 +50,9 @@ Me and LT are doing it!
 #### Trip Day 0 (Sat. Sep 20)
 
 * Fly to LA, arrive around mid day
-* Get rental car (TODO book it)
+* Get rental car
 * Go to dinner with LT
-* Hotel, Santa Monica ([hotel.com](https://www.hotels.com/trips/72065320938766/details/MjM3NGVmMjItMzE2ZS02MGUzLTkxZTktZDU3ZmY2YTAyN2U1O2UxMzZmYzRlLWIwOTMtNDQ2OC04NWNkLWI3MTk0M2Q1ZTU3OV8wOzA?siteid=300000001&EMLCID=HCOM-US.TRC.ACTV.2d3d033161682fd9668bed9f3714038c.EML&EMLDTL=DATE20250815-LANGEN_US.TEST496.VERS3.CAT02G255.MOD666184&cta=genericNotification.HCom_Itinerary_V1.link&rfrr=AB.5037.1))
-    * **Itinerary**: `72065320938766`
-    * **Check in**: Sat, Sep 20, 3pm
-    * **Check out**: Sun, Sep 21, 11am
-    * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
+* Hotel, Santa Monica
 
 #### Trip Day 1 - (Sun Sep 21)
 
@@ -82,31 +101,17 @@ Me and LT are doing it!
 * Up when we feel like it, have some coffee and hit the road
 * Eat on the road
 * We can head to the Valley and be a tourist for a few hours, if we have the energy or just head to LA
-* Hotel, Santa Monica (hotels.com)
-    * **Reservation Confirmation#**: `2269013461`
-    * **Check in**: Friday, Sep 26, 3pm
-    * **Check out**: Saturday, Sep 27, 11am
-    * **Luggage Storage**: Available for guests checking in beginning at 12 PM and for departing guests until 2 PM.
-    * **Parking**: We offer a limited amount of parking spaces in our garage. Due to limited capacity, the spots are first come-first serve at an inclusive rate of $33.00 per night. For more details, contact or visit Guest Services at `+1 (213) 952-7869`.
-    * **Location**: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
+* Hotel, Santa Monica
 
 #### Trip Day 7 - (Sat Sep 27)
 
 * Fly to Ohio
 
-This is our official hiking itinerary, but if we want to make changes we can!
-
->We start from `Rafferty Creek->Vogelsang`, this trail follows the Lyell Fork of the Tuolumne River through sub-alpine meadows and then climbs along Rafferty Creek to Tuolumne Pass, Vogelsang, and destinations beyond!
-
-Travel at least four miles from Tuolumne Meadows before finding allowable camping. There is no longer a toilet at the backpacker sites at Vogelsang. If staying at backpacker sites near Fletcher Lake, please disperse several hundred feet from the campground boundary when going to the bathroom. Fires are prohibited in the Vogelsang area, at Boothe Lake, and above 9,600 feet. Along the Tuolumne Watershed, ensure all washing and waste is 300' from water.
-
-Half Dome available with this trailhead. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
-
 ---
 
 ## Lists
 
-## AEG Pack
+### AEG Pack
 
 * Core Gear
     * Backpack
@@ -140,7 +145,7 @@ Half Dome available with this trailhead. All members of the permit are eligible 
     * Statan
 * First Aid
 
-## LT Pack
+### LT Pack
 
 * Core Gear
     * Backpack
@@ -207,55 +212,118 @@ Half Dome available with this trailhead. All members of the permit are eligible 
 * **Lunch**: on the road
 * **Dinner**: in the BnB
 
-### Estimating How Much Fuel
+## Flight
 
-For more detail see [this REI Expert Advice article](https://www.rei.com/learn/expert-advice/how-much-stove-fuel-should-i-take-on-my-backpacking-trip.html)
+AAdvantage Number: AAU1WW556
+Username: my yahoo email address
 
-To get a ballpark estimate I am going to count the boils needed. For example, for breakfast I will need two boils, one for coffee and one for oats.  For dinner I will also need two boils one for food hydration and a second for cooking time.
+AA Record Locator:   NDYCDZ
+Status:   Ticketed - Aug 15, 2025
 
->Assume: 4 boils per person per day (`4b`)
+| Carrier            | Flight Number | Departing City      | Depart Date & Time    | Arriving City      | Arrive Date & Time    | Booking Code | Meals              |
+|--------------------|--------------|---------------------|-----------------------|--------------------|-----------------------|--------------|--------------------|
+| AMERICAN AIRLINES  | 2486         | CMH Columbus        | Sep 20, 2025 05:55 PM | LAX Los Angeles    | Sep 20, 2025 07:48 PM | B            | Food for purchase  |
+| AMERICAN AIRLINES  | 2132         | LAX Los Angeles     | Sep 27, 2025 09:31 AM | CMH Columbus       | Sep 27, 2025 05:04 PM | B            | Food for purchase  |
 
-For fuel I plan to use the small 100g cans.  According to the REI article noted above you can get ~12 boils. I am going to round that down to 10 to be safe.
+| Passenger           | Class   | Seat Assignment |
+|---------------------|---------|-----------------|
+| ANTHONY GILKERSON   | Economy | 29C
 
->Assume: 10 boils per can (`10pbd`)
+Traveling passengers may check in and obtain boarding passes for U.S. domestic electronic tickets within 24 hours of the flight time online at AA.com by using www.aa.com/checkin or at a Self-Service Check-In machine at the airport. Check-in options may be found [here](https://www.aa.com/i18n/plan-travel/extras/fares-and-trip-options.jsp). For information regarding American Airlines checked baggage policies, please visit [www.aa.com/baggageinfo](www.aa.com/baggageinfo).
 
-Doing the math for two people (`2p`) and five days (`5d`), the two stays in the backpacker's camp count as a half day. So that is 4 full days and two half days for a total of five days.
+Travelers must present a government-issue photo ID with either a boarding pass or a priority verification card at the security screening checkpoint
 
-```eq
-number of cans = (2p * 5d * 4b) / 10bpd = 4
+Please remember flight details are subject to change. In order to check a flight's status, gate, or departure and arrival time, go to www.aa.com and enter the flight information in the Gates and Times search area. In order to receive automatic notifications of flight changes, click on the Flight Status Notifications section on the www.aa.com homepage and enter the required flight and contact information.
+
+## Rental Car
+
+View [reservation on-line](https://view.e.budget.com/?qs=42ff083191e413439711aef4ded13bebea25363ea0699560808bf8794162a33e7b5d52e58cdfe37556322f3d9d398def3c7ed2e28cdef5264c7ca674871ed12812580b3399c1da0e6b0261a483f9ed5082f5bf66fa68d493)
+
+### Renting at LAX
+
+Budget Rental Car at LAX has moved to a new location at 
+> 5251 W 98th Street, Los Angeles, CA 90045.
+
+**Pickups**: Follow signs to the baggage claim area. Proceed outside and wait under the purple Car Rental Tram Stop Sign for the Avis/Budget/Payless courtesy bus to take you to the rental car facility
+
+**Dropoffs**: Take Century Blvd to Concourse Way and follow the marked signs for Budget Rental Car Return.
+
+```yaml
+Confirmation Number: 31221753US3
+Pick up: Sat Sep 20, 2025 at 07:00 PM
+Drop off: Sat Sep 27, 2025 at 07:30 AM
+Car: Kia Rio or similar or similar
+Mileage: Unlimited free miles
+Transmission: Automatic
 ```
 
-> We need `4` 100g cans
+| Item                             | Amount     |
+| -------------------------------- | ---------- |
+| **Estimated Total**              | $273.68    |
+| **Amount Prepaid**               | USD$273.68 |
+|                                  |            |
+| Base Rate                        | $173.45    |
+| Rental Options                   | $0.00      |
+| Protections/Coverages            | $0.00      |
+| Surcharges/Fees                  | $80.45     |
+| Concession Recovery Fee (11.11%) | $20.28     |
+| Customer Facility Fee 9.00/day   | $45.00     |
+| Tourism Assessment Fee 3.50%     | $6.07      |
+| Vehicle License Fee 1.30/day     | $9.10      |
+| Taxes                            | $19.78     |
 
-### Need to Get
+### Location Information
 
-* **First day breakfast + lunch**: 
-    * bread
-    * (2) mini bags of chips
-    * (2) bananas
-    * cheese
-    * veggie meat
-    * PB
-    * Jelly
-* **Oatmeal add-ins**: cranberries + PB? 
-* **Lunch protein/Main**:
-    * tuna creations (lauren only)
-    * chicken creations  (lauren only)
-    * PB & J
-* **Lunch crispies/crackers**:
-    * goldfish
-    * cheeze-its
-    * other crackers??
-* **Condiments**?: mustard + mayo packets
-* **Drinks**: Electrolytes, Hot cocoa, tea
-* **Snacks**: (options below - won’t bring everything...obviously)
-    * Trail mix (work)
-    * Protein bars (work)
-    * Stinger waffles?
-    * Running gummies/salt pills?
-    * Dried fruit?
-    * Chocolate?
-* One dessert? :)
+Pick Up Location
+
+```text
+Los Angeles Intl Airport,LAX
+5251 W 98th St,
+Los Angeles, CA 90045 US
+(1) 310-642-4500 (0)
+Sun - Sat open 24 hrs
+```
+
+Drop Off Location
+
+```text
+Los Angeles Intl Airport,LAX
+5251 W 98th St,
+Los Angeles, CA 90045 US
+(1) 310-642-4500 (0)
+Sun - Sat open 24 hrs
+```
+
+## Hotel
+
+ Hotel, Santa Monica ([hotel.com](https://www.hotels.com/trips/72065320938766/details/MjM3NGVmMjItMzE2ZS02MGUzLTkxZTktZDU3ZmY2YTAyN2U1O2UxMzZmYzRlLWIwOTMtNDQ2OC04NWNkLWI3MTk0M2Q1ZTU3OV8wOzA?siteid=300000001&EMLCID=HCOM-US.TRC.ACTV.2d3d033161682fd9668bed9f3714038c.EML&EMLDTL=DATE20250815-LANGEN_US.TEST496.VERS3.CAT02G255.MOD666184&cta=genericNotification.HCom_Itinerary_V1.link&rfrr=AB.5037.1))
+
+### First Stay
+
+```yaml
+Itinerary: 72065320938766
+
+Check in: Sat, Sep 20, 3pm
+Check out: Sun, Sep 21, 11am
+
+Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
+```
+
+### Second Stay
+
+```yaml
+Reservation Confirmation No: 2269013461
+
+Check in: Friday, Sep 26, 3pm
+Check out: Saturday, Sep 27, 11am
+
+Luggage Storage: Available for guests checking in beginning at 12 PM and for departing guests until 2 PM.
+
+Parking: We offer a limited amount of parking spaces in our garage. Due to limited capacity, the spots are first come-first serve at an inclusive rate of $33.00 per night. For more details, contact or visit Guest Services at +1 (213) 952-7869
+
+Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
+```
+
 
 ---
 
@@ -263,12 +331,7 @@ number of cans = (2p * 5d * 4b) / 10bpd = 4
 
 ### Reservation - Rafferty Creek to Vogelsang
 
-* [Reservation #0745333876-1](https://www.recreation.gov/account/orders/0745333876/reservations/7c8009d3-0cb3-4171-9fe2-d2b658c97ffb__445859)
-
-> **TODO** - LT needs to prep here iPhone as a backup. She will need:
-> * an offline copy of this doc
-> * the Recreation.gov app, (with her login or mine?)
-> * onX with our Yosemite trip downloaded into "off-line maps" Not sure if she can use my account, or she should just pay for a year, and when I see she I mean me :-)
+> [Reservation #0745333876-1](https://www.recreation.gov/account/orders/0745333876/reservations/7c8009d3-0cb3-4171-9fe2-d2b658c97ffb__445859)
 
 ### Permit Pickup
 
@@ -277,13 +340,27 @@ You must pick up your permit in person at any open [Yosemite Wilderness Permit S
 * **Tuolumne Meadows Wilderness Center** - is located just off the Tioga Road in Tuolumne Meadows. It is about one mile east of the visitor center. From the Tioga Road, follow signs for Tuolumne Meadows Lodge, Dog Lake, and Wilderness Permits. Parking is available at the wilderness center.
 * **Coordinates**: 37.87695, -119.34626
 
+### Official Hiking Itinerary
+
+We start from `Rafferty Creek->Vogelsang`, this trail follows the Lyell Fork of the Tuolumne River through sub-alpine meadows and then climbs along Rafferty Creek to Tuolumne Pass, Vogelsang, and destinations beyond!
+
+Travel at least four miles from Tuolumne Meadows before finding allowable camping. There is no longer a toilet at the backpacker sites at Vogelsang. If staying at backpacker sites near Fletcher Lake, please disperse several hundred feet from the campground boundary when going to the bathroom. Fires are prohibited in the Vogelsang area, at Boothe Lake, and above 9,600 feet. Along the Tuolumne Watershed, ensure all washing and waste is 300' from water.
+
+Half Dome available with this trailhead. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
+
+> **TODO** - LT needs to prep here iPhone as a backup. She will need:
+> * an offline copy of this doc
+> * the Recreation.gov app, (with her login or mine?)
+> * onX with our Yosemite trip downloaded into "off-line maps" Not sure if she can use my account, or she should just pay for a year, and when I see she I mean me :-)
+
+
 ### Food Storage
 
 Bear-Resistant Food Storage is required for all overnight stays in Yosemite Wilderness. Bear canisters are available for rent at a Yosemite Wilderness Permit Station for $5 per week (deposit required).
 
 Certain bear-resistant portable containers designed for backpackers to store food are allowed for use in Yosemite (however, only the Garcia Backpackers' Cache 812 is available for rental in Yosemite).  
 
-* See [allowed containers](https://www.nps.gov/yose/planyourvisit/containers.htm)
+>See [allowed containers](https://www.nps.gov/yose/planyourvisit/containers.htm)
 
 ### Current Conditions
 
@@ -335,13 +412,85 @@ Camp
 ![Tuolumne Meadows Camp](img/tuolumne-meadowstm-camp_3-1_4.gif)
 
 ![Tuolumne Meadows Camp](img/tuolumne-meadows-backpackers-campground.webp)
->**TODO** - Add location from onX here and add waypoints on onX for the backpacker campgrounds
 
-### Itinerary
+### Estimating How Much Fuel
 
-> **TODO** create a step by step itinerary with GPS links to onX then figure out a good way to store that offline on the phone.
+For more detail see [this REI Expert Advice article](https://www.rei.com/learn/expert-advice/how-much-stove-fuel-should-i-take-on-my-backpacking-trip.html)
 
-### Misc How-To
+To get a ballpark estimate I am going to count the boils needed. For example, for breakfast I will need two boils, one for coffee and one for oats.  For dinner I will also need two boils one for food hydration and a second for cooking time.
+
+>Assume: 4 boils per person per day (`4b`)
+
+For fuel I plan to use the small 100g cans.  According to the REI article noted above you can get ~12 boils. I am going to round that down to 10 to be safe.
+
+>Assume: 10 boils per can (`10pbd`)
+
+Doing the math for two people (`2p`) and five days (`5d`), the two stays in the backpacker's camp count as a half day. So that is 4 full days and two half days for a total of five days.
+
+```eq
+number of cans = (2p * 5d * 4b) / 10bpd = 4
+```
+
+> We need `4` 100g cans
+
+### Need to Get
+
+* **First day breakfast + lunch**: 
+    * bread
+    * (2) mini bags of chips
+    * (2) bananas
+    * cheese
+    * veggie meat
+    * PB
+    * Jelly
+* **Oatmeal add-ins**: cranberries + PB? 
+* **Lunch protein/Main**:
+    * tuna creations (lauren only)
+    * chicken creations  (lauren only)
+    * PB & J
+* **Lunch crispies/crackers**:
+    * goldfish
+    * cheeze-its
+    * other crackers??
+* **Condiments**?: mustard + mayo packets
+* **Drinks**: Electrolytes, Hot cocoa, tea
+* **Snacks**: (options below - won’t bring everything...obviously)
+    * Trail mix (work)
+    * Protein bars (work)
+    * Stinger waffles?
+    * Running gummies/salt pills?
+    * Dried fruit?
+    * Chocolate?
+* One dessert? :)
+
+### Search and Rescue Insurance
+
+* **Learn About Your Plan** - Visit the [Support Center](https://support.garmin.com/en-US/) to browse resources including articles, videos, owner's manuals and more.
+
+* **Contact Garman** - For questions regarding SAR plans, contact the Customer Service & Billing Team at `1-888-460-4554` or `plan-support@garmin.com`.
+
+* **Document** - [SAR Insurance Documents](https://subscriptions.garmin.com/legal/insurance/sar)
+
+### Tony
+
+Plan Details
+
+```yaml
+Plan name: SAR 100 Search and Rescue Insurance Plan
+Account number: DL3296962
+Plan term: 12 months
+Start date: 9/11/2025
+Annual plan fee: $39.95 USD
+Insured individual: Anthony Gilkerson
+Beneficiary: Teresa Gilkerson
+Renewal date: 9/11/2026.
+```
+
+### LT
+
+todo - I sent an email to Garmin <plan-support@garmin.com> because I did not receive a SAR Purchase Confirmation email for Lauren. However, I do see it listed on my account.
+
+### How to Save This Document Off-line
 
 **Prepare Content**
 
