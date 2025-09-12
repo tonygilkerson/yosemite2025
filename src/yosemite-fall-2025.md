@@ -15,7 +15,7 @@ Me and LT are doing it!
 - [Rental Car](#rental-car)
 - [Hotel](#hotel)
 - [Supplementary Material](#supplementary-material)
-    - [Reservation - Rafferty Creek to Vogelsang](#reservation---rafferty-creek-to-vogelsang)
+    - Reservation - Rafferty Creek to Vogelsang
     - [Permit Pickup](#permit-pickup)
     - [Official Hiking Itinerary](#official-hiking-itinerary)
     - [Food Storage](#food-storage)
@@ -229,7 +229,7 @@ Status:   Ticketed - Aug 15, 2025
 |---------------------|---------|-----------------|
 | ANTHONY GILKERSON   | Economy | 29C
 
-Traveling passengers may check in and obtain boarding passes for U.S. domestic electronic tickets within 24 hours of the flight time online at AA.com by using www.aa.com/checkin or at a Self-Service Check-In machine at the airport. Check-in options may be found [here](https://www.aa.com/i18n/plan-travel/extras/fares-and-trip-options.jsp). For information regarding American Airlines checked baggage policies, please visit [www.aa.com/baggageinfo](www.aa.com/baggageinfo).
+Traveling passengers may check in and obtain boarding passes for U.S. domestic electronic tickets within 24 hours of the flight time online at AA.com by using www.aa.com/checkin or at a Self-Service Check-In machine at the airport. Check-in options may be found [here](https://www.aa.com/i18n/plan-travel/extras/fares-and-trip-options.jsp). For information regarding American Airlines checked baggage policies, please visit [www.aa.com/baggageinfo](https://www.aa.com/baggageinfo).
 
 Travelers must present a government-issue photo ID with either a boarding pass or a priority verification card at the security screening checkpoint
 
@@ -364,7 +364,23 @@ Certain bear-resistant portable containers designed for backpackers to store foo
 
 ### Current Conditions
 
-Before you go Check [Current Wilderness Conditions](https://www.nps.gov/yose/planyourvisit/wildcond.htm) for trail conditions and timely updates, and reead the [Yosemite Backpacking page](https://www.nps.gov/yose/planyourvisit/backpacking.htm).
+Before you go Check [Current Wilderness Conditions](https://www.nps.gov/yose/planyourvisit/wildcond.htm) for trail conditions and timely updates, and read the [Yosemite Backpacking page](https://www.nps.gov/yose/planyourvisit/backpacking.htm).
+
+#### Weather Forcast
+
+* See the [Weather Map](https://www.nps.gov/yose/planyourvisit/weathermap.htm)
+
+#### Tioga Road and Tuolumne Meadows (As of Sep 3)
+
+* Dingley Creek is dry. Delaney Creek is low flow but still running. Water is plentiful in Spiller, Return, and McCabe creeks. Water is still to be found in Cold Canyon.
+* Rafferty Creek is dry.
+* The Grand Canyon of the Tuolumne is hot. Creeks can be crossed dry. Small flies are abundant in some sections. Be aware of rattlesnakes. Morrison Creek has a slow flow. The trail is clear of fallen logs.
+* No water available at Sunrise backpackers campground. Water is available in Sunrise Creek along the JMT.
+* The bridge southeast of Washburn Lake over the Merced River is out. An accessible crossing is 20 feet downstream. The crossing is 35 feet across and two feet at its deepest with a gentle current.
+* PCT hikers are not eligible for side trips to Yosemite Valley without an additional permit.
+* The Tuolumne Meadows Visitor Center, Post Office, Grill, and Lodge are open. Tuolumne Meadows Backpackers Campground is open but will close this month.
+* White Wolf Backpackers Campground is open with portable toilets. Carry in your own drinking water.
+* Yosemite Creek Campground has closed for the season so backpackers must start hiking from Tioga Road.
 
 ### Public Transportation
 
@@ -387,6 +403,16 @@ If you are hiking through Tuolumne Meadows, you must camp at least four trail mi
 
 >If you are starting or ending a wilderness trip from Tuolumne Meaows, you can use any **other open backpackers campground**.
 
+#### Yosemite Valley
+ 
+The backpackers campground is behind North Pines Campground (and across the footbridge). It is open the same dates as North Pines, mid-April through early-October (approximately); camping in the campground is only allowed when it is open. If arriving at night, please be quiet as you unload your car in the unloading zone and walk to the campground. This campground has vault toilets and no drinking water (drinking water is available nearby in North Pines Campground).
+
+Collecting wood is not allowed in Yosemite Valley. Campfires are only allowed from 5 pm to 10 pm, May through September.
+
+While you may park for 15 minutes at the entrance to the backpackers campground (in North Pines Campground) to unload your gear, park overnight at the trailhead parking or at Curry Village parking. (Overnight parking is not available at The Ahwahnee.)
+
+PCT long-distance permits are not a valid wilderness permit to hike to Yosemite Valley or camp at this campground unless the Tuolumne Meadows Post Office is not open or if the trip is ending in Yosemite Valley.
+
 ### Contact
 
 * **Preferred**: If you have other questions about reservations please fill out [this form](https://yosemite.org/contact-us/) and we will get back to you within two business days.
@@ -395,11 +421,19 @@ If you are hiking through Tuolumne Meadows, you must camp at least four trail mi
 
 * If you have general questions about Yosemite Wilderness, call 209-372-0826 (Monday through Friday, 9:00 a.m. to 4:30 p.m.). This number is generally staffed between early May and mid October. 
 
+* If you have wilderness questions (e.g., hiking Half Dome and backpacking), you can call 209/372-0826, Monday through Friday (9 am to noon and 1 to 4:30 pm) to speak to a wilderness ranger. This phone is in service from May through September.
+
 ### Maps
 
 #### Yosemite Wilderness Trailheads
 
 [Yosemite Wilderness Trailheads (pdf)](pdf/yosemite-wildernesstrailheads.pdf)
+
+#### Yosemite Valley
+
+Detail map
+
+![yv](./img/yosemite-valley-detail-map.jpg)
 
 #### Tuolumne Meadows
 
@@ -412,6 +446,14 @@ Camp
 ![Tuolumne Meadows Camp](img/tuolumne-meadowstm-camp_3-1_4.gif)
 
 ![Tuolumne Meadows Camp](img/tuolumne-meadows-backpackers-campground.webp)
+
+#### Yosemite Park Map
+
+![tam](./img/yosemite-park-map.jpg)
+
+#### Yosemite Area Map
+
+![tam](./img/yosemite-area-map.jpg)
 
 ### Estimating How Much Fuel
 
@@ -471,8 +513,6 @@ number of cans = (2p * 5d * 4b) / 10bpd = 4
 
 * **Document** - [SAR Insurance Documents](https://subscriptions.garmin.com/legal/insurance/sar)
 
-### Tony
-
 Plan Details
 
 ```yaml
@@ -486,9 +526,21 @@ Beneficiary: Teresa Gilkerson
 Renewal date: 9/11/2026.
 ```
 
-### LT
+### Yosemite Valley
 
-todo - I sent an email to Garmin <plan-support@garmin.com> because I did not receive a SAR Purchase Confirmation email for Lauren. However, I do see it listed on my account.
+#### Visitor Centers & Museums
+
+* **Yosemite Valley Welcome Center** (located next to Village Store, open all year): Ranger-staffed information desk and bookstore, informational and directional exhibits.
+
+* **Yosemite Exploration Center**, formerly Valley Visitor Center (opening Fall 2023): Spirit of Yosemite film, and exhibit areas detailing the park's geology, plant and animal life, history, rock climbing, and more.
+
+* **Yosemite Museum** (open all year): The Indian Cultural Exhibit and Village interprets the cultural history of Yosemite's traditionally associated tribes from 1850 to the present. Demonstrations of traditional skills are presented. The Gallery offers art exhibits periodically throught the year.
+
+* **Valley Wilderness Center** (May to October): Offers wilderness permits, bear canisters, maps, and guidebooks. Information on pre-trip planning, minimum-impact camping, and the Yosemite Wilderness.
+
+* **Happy Isles Art and Nature Center** (May to September): Designed for nature-exploring families, this center offers natural history exhibits, interactive displays, and art workshops. Nearby are short trails through the area’s forest, river, and fen environments. Evidence of the huge 1996 rockfall from the Glacier Point cliff is visible above.
+
+* **Yosemite Conservation Heritage Center**, formerly LeConte Memorial Lodge (late May to early September): Yosemite's first public visitor center, operated by the Sierra Club, features a children's corner, library, and a variety of environmental education and evening programs.
 
 ### How to Save This Document Off-line
 
