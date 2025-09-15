@@ -34,18 +34,23 @@ Me and LT are doing it!
 
 ## The Plan
 
-### Dates
+### Plan Dates
 
-| Trip Day | Date         | Camp Area                                                      |
-| -------- | ------------ | -------------------------------------------------------------- |
-| 0        | Sat - Sep 20 | Fly to LA                                                      |
-| 1        | Sun - Sep 21 | Drive to Yosemite (~6hr ) - Tuolumne Meadows Backpacker's Camp |
-| 2        | Mon - Sep 22 | Hike 1 - Vogelsang High Sierra Camp                            |
-| 3        | Tue - Sep 23 | Hike 2 - Merced Lake High Sierra Camp                          |
-| 4        | Wed - Sep 24 | Hike 3 - Sunrise High Sierra Camp                              |
-| 5        | Thr - Sep 25 | Hike 4 - Tuolumne Meadows Backpacker's Camp                    |
-| 6        | Fri - Sep 26 | Drive to LA                                                    |
-| 7        | Sat - Sep 27 | Fly to Ohio                                                    |
+| Trip<BR>Day | Day | Sep | Description           | Stay  |
+| ----------- | --- | --- | --------------------- | ----- |
+| 0           | Sat | 20  | Fly to LA             | Hotel |
+| 1           | Sun | 21  | Drive to Yosemite     | BPC   |
+| 2           | Mon | 22  | Hike 1 to Vogelsang   | HSC   |
+| 3           | Tue | 23  | Hike 2 to Merced Lake | HSC   |
+| 4           | Wed | 24  | Hike 3 to Sunrise     | HSC   |
+| 5           | Thr | 25  | Hike 4 out            | BPC   |
+| 6           | Fri | 26  | Drive to LA           | Hotel |
+| 7           | Sat | 27  | Fly to Ohio           | Home  |
+
+>**BPC** - Backpacker's Camp, The Valley<br>
+>**HSC** - High Sierra Camp<br>
+
+### Plan Day-by-Day
 
 #### Trip Day 0 (Sat. Sep 20)
 
@@ -61,7 +66,7 @@ Me and LT are doing it!
 * Eat on the road, buy take-out dinner
 * Pickup permit and find parking
 * For dinner, we'll either buy food at a local store/restaurant or use the take-out we picked up earlier
-* Camp at **Tuolumne Meadows Backpacker's Camp**
+* Camp at **The Valley Backpacker's Camp**
 
 #### Trip Day 2 - (Mon Sep 22)
 
@@ -93,7 +98,7 @@ Me and LT are doing it!
 
 * Up early, eat breakfast in camp
 * Hike, Lunch, Hike
-* Arrive at **Tuolumne Meadows Backpacker's Camp**
+* Arrive at **The Valley Backpacker's Camp**
 * Setup camp and have some dinner
 
 #### Trip Day 6 - (Fri Sep 26)
@@ -109,108 +114,67 @@ Me and LT are doing it!
 
 ---
 
-## Lists
-
-### AEG Pack
-
-* Core Gear
-    * Backpack
-    * Tent - 2P Tent
-    * Ground tarp/footprint
-    * Sleeping bag (summer bag and extra one for on top)
-    * Sleeping pad (Big Agnes Rapide SL)
-    * Bear Canister (BV450 Jaunt)
-    * Headlamp - Petzl Tikka Headlamp with charging cord
-* Electronics
-    * iPhone w/offline maps and info and charging cord
-    * Backup iPhone w/offline maps and info and charging cord
-    * EarPods and charging cord
-    * USB power pack
-    * Sunjack Solar Panels
-* Food
-    * Stove - Zip 0.8 L Fast Boil System
-    * IsoPro Fuel Canister - TODO how many
-    * pot
-    * utensel
-* Clothing
-    * Rain Jacket - REI XeroCloud 3L
-    * Vest - 650 Down Vest
-    * Long Sleeves Shirt - Swiftland Thermal Running Crew Pullover
-    * Short Sleeves Shirt (2)
-      * Swiftland Running T-Shirt
-      * Other
-* meds
-    * Tylenol
-    * IB-pro-fin
-    * Statan
-* First Aid
-
-### LT Pack
-
-* Core Gear
-    * Backpack
-    * Sleeping bag (Heimlich)
-    * Sleeping pad (TODO)
-    * Bear Canister (BV425 Jaunt)
-    * Headlamp - w/extra batteries (TODO find my old one)
-    * cards and dice
-* Electronics
-    * iPhone w/offline maps and info
-    * EarPods and charging cord
-    * USB power pack and charging cords
-* Clothing
-    * Rain Jacket
-* food and water
-    * Camel back
-    * nalgene 
-
 ## Meals
 
-### Trip Day 1 - Backpacker's Camp
+| Trip<BR>Day | Day | Sep | Description           | Stay  | Meals Comment                       | Bfast | Lunch | Dinner |
+| ----------- | --- | --- | --------------------- | ----- | ----------------------------------- | ----- | ----- | ------ |
+| 0           | Sat | 20  | Fly to LA             | Hotel |                                     | OTR   | OTR   | OTR    |
+| 1           | Sun | 21  | Drive to Yosemite     | BPC   | Stash 1-B and 1-D in car for return | OTR   | OTR   | OTR    |
+| 2           | Mon | 22  | Hike 1 to Vogelsang   | HSC   | Store B, L and D in pack for today  | BFS-1 | SFP-1 | DFP-1  |
+| 3           | Tue | 23  | Hike 2 to Merced Lake | HSC   |                                     | BFC-1 | SFC-1 | DFC-1  |
+| 4           | Wed | 24  | Hike 3 to Sunrise     | HSC   |                                     | BFC-2 | SFC-2 | DFC-2  |
+| 5           | Thr | 25  | Hike 4 out            | BPC   | D is stashed in the car             | BFC-3 | SFC-3 | DFS-1  |
+| 6           | Fri | 26  | Drive to LA           | Hotel | B is stashed in the car             | BFS-2 | OTR   | OTR    |
+| 7           | Sat | 27  | Fly to Ohio           | Home  |                                     | OTR   | OTR   | OTR    |
 
-* **Sun 9/21**: Drive to Yosemite, stay in Tuolumne Meadows Backpacker's Camp
-* **Breakfast**: on the road
-* **Lunch**: on the road
-* **Dinner**: on the road or in camp? LT TODO to see if we can get something on the road
+>**Meal** - A meal that is prepared and packaged ahead of time<br>
+>**From Pack** - Food stored in backpack, not in bear canister<br>
+>**From Canister** - Food stored in bear canister<br>
+>**Stash** - Food stashed in car so no need to carry.<br>
 
-### Trip Day 2 - Hike 1
+### Meal Counts
 
-* **Mon 9/22**: Hike to Vogelsang High Sierra Camp
-* **Breakfast**: TBD - could grab something in town/make at campsite? - PBJ & Banana toast?
-* **Lunch**: deli sandwiches w/ chips!
-* **Dinner**: Dad TBD
-* **Snacks**: (1) Electrolyte Packet + TBD
+| Type | Description             | Count | People | Servings |
+| ---- | ----------------------- | ----- | ------ | -------- |
+| OTR  | On the road             |       |        |          |
+| <hr> | <hr>                    | <hr>  | <hr>   |          |
+| BFS  | Breakfast from pack     | 2     | 2      | 4        |
+| BFC  | Breakfast from canister | 3     | 2      | 6        |
+| <hr> | <hr>                    | <hr>  | <hr>   |          |
+| SFP  | Snack from pack         | 1     | 2      | 2        |
+| SFC  | Snack from canister     | 3     | 2      | 6        |
+| <hr> | <hr>                    | <hr>  | <hr>   |          |
+| DFP  | Dinner from pack        | 1     | 2      | 2        |
+| DFC  | Dinner from canister    | 2     | 2      | 4        |
+| DFS  | Dinner from stash       | 1     | 2      | 2        |
 
-### Trip Day 3 - Hike 2
+### Meal check list
 
-* **Tue 9/23**: Hike to  Merced Lake High Sierra Camp
-* **Breakfast**: Oatmeal w/ TBD + Coffee
-* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
-* **Dinner**: Dad TBD
-* **Snacks**: (1) Electrolyte Packet + TBD
+* Trip Day 2 (Mon)
+    - [x] BFS-1 Oats
+    - [ ] SFP-1 tbd
+    - [x] DFP-1 Mushroom Pasta Alfredo
 
-### Trip Day 4 - Hike 3
+* Trip Day 3 (Tue)
+    - [x] BFC-1 Oats
+    - [ ] SFC-1 tbd
+    - [x] DFC-1 - Spiced Rice and Beans
 
-* **Wed 9/24**: Hike to Sunrise High Sierra Camp
-* **Breakfast**: Oatmeal w/ TBD + Coffee
-* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
-* **Dinner**: Dad TBD
-* **Snacks**: (1) Electrolyte Packet + TBD
+* Trip Day 4 (Wed)
+    - [x] BFC-2 Oats
+    - [ ] SFC-2 tbd
+    - [x] DFC-2 - Tony's Spaghetti
 
-### Trip Day 5 - Hike 4
+* Trip Day 5 (Thr)
+    - [x] BFC-3 Oats
+    - [ ] SFC-3 tbd
+    - [x] DFS-2 Choice of
+      - [x]  DFS-2.A - Black and White Rice and Beans
+      - [x]  DFS-2.B - Hungry Hiker Stew
 
-* **Thr 9/25**: Hike back to Tuolumne Meadows Backpacker's Camp
-* **Breakfast**: Oatmeal w/ TBD + Coffee
-* **Lunch**: Tortilla w/ TBD protein packet + TBD chrunchies
-* **Dinner**: Dad TBD
-* **Snacks**: (1) Electrolyte Packet + TBD
-
-### Trip Day 6 - Hike 4
-
-* **Thr 9/26**: Drive back to LA
-* **Breakfast**: Oatmeal w/ TBD + Coffee
-* **Lunch**: on the road
-* **Dinner**: in the BnB
+* Trip Day 6 (Fri)
+    - [x] BFS-2 Oats
+  
 
 ## Flight
 
@@ -220,14 +184,14 @@ Username: my yahoo email address
 AA Record Locator:   NDYCDZ
 Status:   Ticketed - Aug 15, 2025
 
-| Carrier            | Flight Number | Departing City      | Depart Date & Time    | Arriving City      | Arrive Date & Time    | Booking Code | Meals              |
-|--------------------|--------------|---------------------|-----------------------|--------------------|-----------------------|--------------|--------------------|
-| AMERICAN AIRLINES  | 2486         | CMH Columbus        | Sep 20, 2025 05:55 PM | LAX Los Angeles    | Sep 20, 2025 07:48 PM | B            | Food for purchase  |
-| AMERICAN AIRLINES  | 2132         | LAX Los Angeles     | Sep 27, 2025 09:31 AM | CMH Columbus       | Sep 27, 2025 05:04 PM | B            | Food for purchase  |
+| Carrier           | Flight Number | Departing City  | Depart Date & Time    | Arriving City   | Arrive Date & Time    | Booking Code | Meals             |
+| ----------------- | ------------- | --------------- | --------------------- | --------------- | --------------------- | ------------ | ----------------- |
+| AMERICAN AIRLINES | 2486          | CMH Columbus    | Sep 20, 2025 05:55 PM | LAX Los Angeles | Sep 20, 2025 07:48 PM | B            | Food for purchase |
+| AMERICAN AIRLINES | 2132          | LAX Los Angeles | Sep 27, 2025 09:31 AM | CMH Columbus    | Sep 27, 2025 05:04 PM | B            | Food for purchase |
 
-| Passenger           | Class   | Seat Assignment |
-|---------------------|---------|-----------------|
-| ANTHONY GILKERSON   | Economy | 29C
+| Passenger         | Class   | Seat Assignment |
+| ----------------- | ------- | --------------- |
+| ANTHONY GILKERSON | Economy | 29C             |
 
 Traveling passengers may check in and obtain boarding passes for U.S. domestic electronic tickets within 24 hours of the flight time online at AA.com by using www.aa.com/checkin or at a Self-Service Check-In machine at the airport. Check-in options may be found [here](https://www.aa.com/i18n/plan-travel/extras/fares-and-trip-options.jsp). For information regarding American Airlines checked baggage policies, please visit [www.aa.com/baggageinfo](https://www.aa.com/baggageinfo).
 
@@ -324,6 +288,62 @@ Parking: We offer a limited amount of parking spaces in our garage. Due to limit
 Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 ```
 
+---
+
+## Pack List
+
+### AEG Pack
+
+* Core Gear
+    * Backpack
+    * Tent - 2P Tent
+    * Ground tarp/footprint
+    * Sleeping bag (summer bag and extra one for on top)
+    * Sleeping pad (Big Agnes Rapide SL)
+    * Bear Canister (BV450 Jaunt)
+    * Headlamp - Petzl Tikka Headlamp with charging cord
+* Electronics
+    * iPhone w/offline maps and info and charging cord
+    * Backup iPhone w/offline maps and info and charging cord
+    * EarPods and charging cord
+    * USB power pack
+    * Sunjack Solar Panels
+* Food
+    * Stove - Zip 0.8 L Fast Boil System
+    * IsoPro Fuel Canister - TODO how many
+    * pot
+    * utensel
+* Clothing
+    * Rain Jacket - REI XeroCloud 3L
+    * Vest - 650 Down Vest
+    * Long Sleeves Shirt - Swiftland Thermal Running Crew Pullover
+    * Short Sleeves Shirt (2)
+      * Swiftland Running T-Shirt
+      * Other
+* meds
+    * Tylenol
+    * IB-pro-fin
+    * Statan
+* First Aid
+
+### LT Pack
+
+* Core Gear
+    * Backpack
+    * Sleeping bag (Heimlich)
+    * Sleeping pad (TODO)
+    * Bear Canister (BV425 Jaunt)
+    * Headlamp - w/extra batteries (TODO find my old one)
+    * cards and dice
+* Electronics
+    * iPhone w/offline maps and info
+    * EarPods and charging cord
+    * USB power pack and charging cords
+* Clothing
+    * Rain Jacket
+* food and water
+    * Camel back
+    * nalgene 
 
 ---
 
