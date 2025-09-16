@@ -127,10 +127,12 @@ Me and LT are doing it!
 | 6           | Fri | 26  | Drive to LA           | Hotel | B is stashed in the car             | BFS-2 | OTR   | OTR    |
 | 7           | Sat | 27  | Fly to Ohio           | Home  |                                     | OTR   | OTR   | OTR    |
 
->**Meal** - A meal that is prepared and packaged ahead of time<br>
->**From Pack** - Food stored in backpack, not in bear canister<br>
->**From Canister** - Food stored in bear canister<br>
->**Stash** - Food stashed in car so no need to carry.<br>
+> * **B** - Breakfast
+> * **S** - Snack/Lunch
+> * **D** - Dinner
+> * **FP (From Pack)** - Food stored in backpack, not in bear canister
+> * **FC (From Canister)** - Food stored in bear canister<br>
+> * **FS (Fro Stash)** - Food stashed in car so no need to carry.<br>
 
 ### Meal Counts
 
@@ -151,30 +153,48 @@ Me and LT are doing it!
 ### Meal check list
 
 * Trip Day 2 (Mon)
+
     - [x] BFS-1 Oats
-    - [ ] SFP-1 tbd
+    - [x] SFP-1 see Lunch
     - [x] DFP-1 Mushroom Pasta Alfredo
 
 * Trip Day 3 (Tue)
     - [x] BFC-1 Oats
-    - [ ] SFC-1 tbd
+    - [x] SFC-1 see Lunch
     - [x] DFC-1 - Spiced Rice and Beans
 
 * Trip Day 4 (Wed)
     - [x] BFC-2 Oats
-    - [ ] SFC-2 tbd
+    - [x] SFC-2 see Lunch
     - [x] DFC-2 - Tony's Spaghetti
 
 * Trip Day 5 (Thr)
     - [x] BFC-3 Oats
-    - [ ] SFC-3 tbd
+    - [x] SFC-3 see Lunch
     - [x] DFS-2 Choice of
-      - [x]  DFS-2.A - Black and White Rice and Beans
-      - [x]  DFS-2.B - Hungry Hiker Stew
+        - [x]  DFS-2.A - Black and White Rice and Beans
+        - [x]  DFS-2.B - Hungry Hiker Stew
 
 * Trip Day 6 (Fri)
     - [x] BFS-2 Oats
-  
+
+#### Lunch
+
+* **LT Lunch (CCR)** - For my lunch I’m doing a what Im gonna call the CCR (crispy chicken rollup, not to be confused with Creedence Clearwater revival) Every day!
+
+* **AEG Lunch** - You have 4 tortillas + peanut butter + all the snacks
+
+#### Snacks
+
+For snack we have:
+
+- wheat things
+- goldfish 
+- trail mix
+- protein bars
+- granola bars
+- jerky sticks for me
+- cheese & cracker packs 
 
 ## Flight
 
@@ -357,8 +377,11 @@ Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
 
 You must pick up your permit in person at any open [Yosemite Wilderness Permit Station](https://www.nps.gov/yose/planyourvisit/permitstations.htm) (stations open seasonally, not limited to your listed issuing station) the day before, or the day of your permit entry date. You must pick up your permit by 11:00 a.m. on your entry date or place it on hold for late pick-up, or it will be cancelled. To place your permit on hold, log in to your recreation.gov account to modify your permit reservation and mark it for late pick-up once you are within one week of your entry date.
 
-* **Tuolumne Meadows Wilderness Center** - is located just off the Tioga Road in Tuolumne Meadows. It is about one mile east of the visitor center. From the Tioga Road, follow signs for Tuolumne Meadows Lodge, Dog Lake, and Wilderness Permits. Parking is available at the wilderness center.
-* **Coordinates**: 37.87695, -119.34626
+* **Yosemite Valley Wilderness Center** - The Yosemite Valley Wilderness Center is located at the Yosemite Valley Welcome Center in Yosemite Village, near the Village Store complex
+    * Coordinates: 37.74844, -119.58662
+
+* **Tuolumne Meadows Wilderness Center** - **CLOSED** is located just off the Tioga Road in Tuolumne Meadows. It is about one mile east of the visitor center. From the Tioga Road, follow signs for Tuolumne Meadows Lodge, Dog Lake, and Wilderness Permits. Parking is available at the wilderness center.
+    * **Coordinates**: 37.87695, -119.34626
 
 ### Official Hiking Itinerary
 
@@ -366,13 +389,12 @@ We start from `Rafferty Creek->Vogelsang`, this trail follows the Lyell Fork of 
 
 Travel at least four miles from Tuolumne Meadows before finding allowable camping. There is no longer a toilet at the backpacker sites at Vogelsang. If staying at backpacker sites near Fletcher Lake, please disperse several hundred feet from the campground boundary when going to the bathroom. Fires are prohibited in the Vogelsang area, at Boothe Lake, and above 9,600 feet. Along the Tuolumne Watershed, ensure all washing and waste is 300' from water.
 
-Half Dome available with this trailhead. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
+Half Dome available with this trail head. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
 
 > **TODO** - LT needs to prep here iPhone as a backup. She will need:
 > * an offline copy of this doc
 > * the Recreation.gov app, (with her login or mine?)
 > * onX with our Yosemite trip downloaded into "off-line maps" Not sure if she can use my account, or she should just pay for a year, and when I see she I mean me :-)
-
 
 ### Food Storage
 
@@ -415,23 +437,21 @@ Explore Public Transportation Options for going to and getting around Yosemite N
 
 The fee is $8 per person. Download the **Recreation.gov mobile app** now and use the *Scan & Pay* feature onsite (even if you don't have internet access at the campground). Parking is not available at campgrounds; instead park at designated overnight parking areas and walk to the backpackers campground.
 
-#### Tuolumne Meadows
+#### Tuolumne Meadows (CLOSED)
 
 [Tuolumne Meadows Campground](https://www.nps.gov/yose/planyourvisit/tmcamp.htm)'s major rehabilitation project is nearly complete; the campground is planned to reopen in 2025 (eta Aug??). Each campsite is near a bathroom with drinking water and flushing toilets. The group sites have five food lockers. See [Opening, Closing, and Reservation Updates](https://www.nps.gov/yose/planyourvisit/campgrounds.htm#updates) for last minute deets, or call the Tuolumne Meadows campground office at (209) 372-4025.
 
 If you are hiking through Tuolumne Meadows, you must camp at least four trail miles from Tuolumne Meadows.
 
->If you are starting or ending a wilderness trip from Tuolumne Meaows, you can use any **other open backpackers campground**.
-
 #### Yosemite Valley
- 
+
+> Coordinates: 37.74542, -119.56715
+
 The backpackers campground is behind North Pines Campground (and across the footbridge). It is open the same dates as North Pines, mid-April through early-October (approximately); camping in the campground is only allowed when it is open. If arriving at night, please be quiet as you unload your car in the unloading zone and walk to the campground. This campground has vault toilets and no drinking water (drinking water is available nearby in North Pines Campground).
 
 Collecting wood is not allowed in Yosemite Valley. Campfires are only allowed from 5 pm to 10 pm, May through September.
 
-While you may park for 15 minutes at the entrance to the backpackers campground (in North Pines Campground) to unload your gear, park overnight at the trailhead parking or at Curry Village parking. (Overnight parking is not available at The Ahwahnee.)
-
-PCT long-distance permits are not a valid wilderness permit to hike to Yosemite Valley or camp at this campground unless the Tuolumne Meadows Post Office is not open or if the trip is ending in Yosemite Valley.
+While you may park for 15 minutes at the entrance to the backpackers campground (in North Pines Campground) to unload your gear, park overnight at the trail head parking or at Curry Village parking. (Overnight parking is not available at The Ahwahnee.)
 
 ### Contact
 
@@ -439,9 +459,9 @@ PCT long-distance permits are not a valid wilderness permit to hike to Yosemite 
 
 * For assistance with your reservation, call `209-372-0740` (Monday through Friday, 9:00 a.m. to 4:00 p.m.).
 
-* If you have general questions about Yosemite Wilderness, call 209-372-0826 (Monday through Friday, 9:00 a.m. to 4:30 p.m.). This number is generally staffed between early May and mid October. 
+* If you have general questions about Yosemite Wilderness, call `209-372-0826` (Monday through Friday, 9:00 a.m. to 4:30 p.m.). This number is generally staffed between early May and mid October. 
 
-* If you have wilderness questions (e.g., hiking Half Dome and backpacking), you can call 209/372-0826, Monday through Friday (9 am to noon and 1 to 4:30 pm) to speak to a wilderness ranger. This phone is in service from May through September.
+* If you have wilderness questions (e.g., hiking Half Dome and backpacking), you can call `209/372-0826`, Monday through Friday (9 am to noon and 1 to 4:30 pm) to speak to a wilderness ranger. This phone is in service from May through September.
 
 ### Maps
 
@@ -546,9 +566,9 @@ Beneficiary: Teresa Gilkerson
 Renewal date: 9/11/2026.
 ```
 
-### Yosemite Valley
+### Visitor Centers & Museums
 
-#### Visitor Centers & Museums
+Visitor center and museums in the Yosemite Valley
 
 * **Yosemite Valley Welcome Center** (located next to Village Store, open all year): Ranger-staffed information desk and bookstore, informational and directional exhibits.
 
