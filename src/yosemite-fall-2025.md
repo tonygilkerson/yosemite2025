@@ -71,32 +71,31 @@ Me and LT are doing it!
 #### Trip Day 2 - (Mon Sep 22)
 
 * Up early, eat breakfast in camp
-* Hike
-* Lunch - TODO set a waypoint for suggested location to eat
-* Hike - TODO find water source for dinner add waypoint on map
+* TODO - Ask ranger about water sources before we head out
+* Hike, Lunch, Hike
 * Arrive at **Vogelsang High Sierra Camp**
 * Setup camp and have some dinner
 * Optional
     * explore camp
-    * check out the sky when it gets dark!
+    * check out the sky when it gets dark! (any/all nights)
   
 #### Trip Day 3 - (Tue Sep 23)
 
-* Up early, eat breakfast in camp
+* Up when we feel like it, breakfast, coffee enjoy the morning
 * Hike, Lunch, Hike
 * Arrive at **Merced Lake High Sierra Camp**
 * Setup camp and have some dinner
 
 #### Trip Day 4 - (Wed Sep 24)
 
-* Up early, eat breakfast in camp
+* Up when we feel like it, breakfast, coffee enjoy the morning
 * Hike, Lunch, Hike
 * Arrive at **Sunrise High Sierra Camp**
 * Setup camp and have some dinner
 
 #### Trip Day 5 - (Thr Sep 25)
 
-* Up early, eat breakfast in camp
+* Up when we feel like it, breakfast coffee enjoy the morning
 * Hike, Lunch, Hike
 * Arrive at **The Valley Backpacker's Camp**
 * Setup camp and have some dinner
