@@ -361,9 +361,9 @@ For snack we have:
 * Core Gear
     * Backpack
     * Sleeping bag (Heimlich)
-    * Sleeping pad (TODO)
+    * Sleeping pad
     * Bear Canister (BV425 Jaunt)
-    * Headlamp - w/extra batteries (TODO find my old one)
+    * Headlamp - w/extra batteries
     * cards and dice
 * Electronics
     * iPhone w/offline maps and info
@@ -400,11 +400,6 @@ We start from `Rafferty Creek->Vogelsang`, this trail follows the Lyell Fork of 
 Travel at least four miles from Tuolumne Meadows before finding allowable camping. There is no longer a toilet at the backpacker sites at Vogelsang. If staying at backpacker sites near Fletcher Lake, please disperse several hundred feet from the campground boundary when going to the bathroom. Fires are prohibited in the Vogelsang area, at Boothe Lake, and above 9,600 feet. Along the Tuolumne Watershed, ensure all washing and waste is 300' from water.
 
 Half Dome available with this trail head. All members of the permit are eligible to walk up Half Dome. Additional fees of $10 per person due when permit is issued.
-
-> **TODO** - LT needs to prep here iPhone as a backup. She will need:
-> * an offline copy of this doc
-> * the Recreation.gov app, (with her login or mine?)
-> * onX with our Yosemite trip downloaded into "off-line maps" Not sure if she can use my account, or she should just pay for a year, and when I see she I mean me :-)
 
 ### Food Storage
 
