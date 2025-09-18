@@ -319,7 +319,8 @@ Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
     * Ground tarp/footprint
     * Sleeping bag (summer bag and extra one for on top)
     * Sleeping pad (Big Agnes Rapide SL)
-    * Bear Canister (BV450 Jaunt)
+    * Sleeping pad (two foam pads)
+    * Bear Canister (BV450 Jaunt and BV400)
     * Headlamp - Petzl Tikka Headlamp with charging cord
 * Electronics
     * iPhone w/offline maps and info and charging cord
@@ -329,9 +330,15 @@ Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
     * Sunjack Solar Panels
 * Food
     * Stove - Zip 0.8 L Fast Boil System
-    * IsoPro Fuel Canister - TODO how many
+    * Stove - pocket rocket
+    * IsoPro Fuel Canister (4)
     * pot
-    * utensel
+    * stanley canister with two plastic cups inside 
+    * utensil
+    * water pump
+    * water treatment
+    * pocket knife
+    * flint fire starter
 * Clothing
     * Rain Jacket - REI XeroCloud 3L
     * Vest - 650 Down Vest
@@ -339,11 +346,37 @@ Location: 12311 Santa Monica Blvd, Los Angeles, CA, 90025
     * Short Sleeves Shirt (2)
       * Swiftland Running T-Shirt
       * Other
+    * Underwear (2)
+    * paints (1) - the ones that convert into shorts
+    * sleep (bag)
+      * "long john" comfy paints
+      * long sleeves comfy shirt
+      * foodies
+      * undies shorties 
+* hygean
+  * bidet
+  * tp
 * meds
     * Tylenol
     * IB-pro-fin
     * Statan
 * First Aid
+
+* bear canister
+  * moma bear
+    * pod w/pocket rocket  and pod cozy-cover inside
+    * first aid kit
+    * bidet
+    * tp
+    * coffee
+    * utensil
+    * wool socks one pair
+    * pocket knife
+    * flint fire starter
+    * bandanna
+    * toboggan
+  * baby bear
+    * 
 
 ### LT Pack
 
@@ -411,17 +444,26 @@ Before you go Check [Current Wilderness Conditions](https://www.nps.gov/yose/pla
 
 * See the [Weather Map](https://www.nps.gov/yose/planyourvisit/weathermap.htm)
 
-#### Tioga Road and Tuolumne Meadows (As of Sep 3)
+#### Yosemite Valley (As of Sep 17)
 
-* Dingley Creek is dry. Delaney Creek is low flow but still running. Water is plentiful in Spiller, Return, and McCabe creeks. Water is still to be found in Cold Canyon.
-* Rafferty Creek is dry.
-* The Grand Canyon of the Tuolumne is hot. Creeks can be crossed dry. Small flies are abundant in some sections. Be aware of rattlesnakes. Morrison Creek has a slow flow. The trail is clear of fallen logs.
-* No water available at Sunrise backpackers campground. Water is available in Sunrise Creek along the JMT.
-* The bridge southeast of Washburn Lake over the Merced River is out. An accessible crossing is 20 feet downstream. The crossing is 35 feet across and two feet at its deepest with a gentle current.
+* The Mist Trail from its junction with the John Muir Trail (above Vernal Fall footbridge) to the top of Vernal Fall will be closed to entry Mondays through Thursdays from 7 am to 3:30 pm June 30 through October 30 (dates and times subject to change). The trail will be open Fridays through Sundays and on holidays. The trail should normally be open from 3:30 pm to 7 am but it may occasionally remain closed overnight for safety reasons. The John Muir Trail is an alternate route to the top of Vernal Fall. The closure is due to trail work.
+* The John Muir Trail from Clark Point to its junction with the Panorama Trail near Nevada Fall will be under construction from September 10 through December 3, for trail repair. A detour is available for hikers that provides access from Happy Isles to the top of Nevada Fall.
+* Additionally, both sections of the Mist Trail may have intermittent delays up to six hours due to blasting on weekdays from September 29 through October 24.
+* The Merced River Canyon is clear. Some sections are dense with shrubs.
+* Water is available in Sunrise Creek.
+* The Panorama Trail is clear. See intermittent closures in the Glacier Point Road section.
+* Yosemite Creek, Lehamite Creek, and Snow Creek are all flowing.
+
+#### Tioga Road and Tuolumne Meadows (As of Sep 17)
+
+* Dingley Creek is dry. Delaney Creek is low flow but still running. Water is plentiful in Spiller, Return, and McCabe creeks. Water can be found in Cold Canyon.
+* Rafferty Creek was dry but has some water in pools. Some feeder creeks also have water again.
+* The Grand Canyon of the Tuolumne is mostly clear of fallen logs. Creeks can be crossed dry. Small flies are abundant in some sections. Be aware of rattlesnakes. Morrison Creek is flowing.
+* No water available at Sunrise Backpackers Campground. Water available in Sunrise Creek along JMT. Mapped creeks are flowing on the route up to the Clouds Rest shoulder past the Sunrise Lakes junction.
+* The bridge southeast of Washburn Lake over the Merced River is out. An accessible crossing is 20 feet downstream. The crossing is 35 feet across and 2 feet at its deepest with a gentle current.
 * PCT hikers are not eligible for side trips to Yosemite Valley without an additional permit.
-* The Tuolumne Meadows Visitor Center, Post Office, Grill, and Lodge are open. Tuolumne Meadows Backpackers Campground is open but will close this month.
-* White Wolf Backpackers Campground is open with portable toilets. Carry in your own drinking water.
-* Yosemite Creek Campground has closed for the season so backpackers must start hiking from Tioga Road.
+* The Tuolumne Meadows Store, Grill, and Post Office close on September 21. The Tuolumne Meadows Campground/Backpackers Campground closes on September 22. The visitor center closes on September 28. White Wolf Backpackers Campground is closed.
+* Yosemite Creek Campground has closed for the season so backpackers will have to start from the Tioga Road.
 
 ### Public Transportation
 
@@ -513,36 +555,6 @@ number of cans = (2p * 5d * 4b) / 10bpd = 4
 ```
 
 > We need `4` 100g cans
-
-### Need to Get
-
-* **First day breakfast + lunch**: 
-    * bread
-    * (2) mini bags of chips
-    * (2) bananas
-    * cheese
-    * veggie meat
-    * PB
-    * Jelly
-* **Oatmeal add-ins**: cranberries + PB? 
-* **Lunch protein/Main**:
-    * tuna creations (lauren only)
-    * chicken creations  (lauren only)
-    * PB & J
-* **Lunch crispies/crackers**:
-    * goldfish
-    * cheeze-its
-    * other crackers??
-* **Condiments**?: mustard + mayo packets
-* **Drinks**: Electrolytes, Hot cocoa, tea
-* **Snacks**: (options below - won’t bring everything...obviously)
-    * Trail mix (work)
-    * Protein bars (work)
-    * Stinger waffles?
-    * Running gummies/salt pills?
-    * Dried fruit?
-    * Chocolate?
-* One dessert? :)
 
 ### Search and Rescue Insurance
 

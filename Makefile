@@ -12,3 +12,5 @@ cpContent:
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/yosemite* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/img/tuolumne* src/img/
 	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/pdf/yosemite* src/pdf/
+	cp -r ~/github/tonygilkerson/notebook/docs/outside/backpacking/recipes src/recipes
+	
